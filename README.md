@@ -1,4 +1,4 @@
-# About Me
+# About Me&trade;
 A Software Developer interested in Android, Node.js and Frontend web development.</br>
 Loves to write code in **Java**:sunglasses:, **JavaScript**:heart_eyes: and **Python**:alien:.</br></br>
 ## I can read and write
