@@ -1,0 +1,9 @@
+.content{
+    height: 400px;
+    margin-top: 100px;
+    flex-grow: 1;
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;;
+}
