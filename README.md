@@ -7,7 +7,7 @@ Loves to write code in **Java**:sunglasses:, **JavaScript**:heart_eyes: and **Py
 !['Python'](http://blog.klocwork.com/wp-content/uploads/2016/01/python-logo.png)
 </br></br>
 ## My values
-- Favour Functional programming over Imperative programming.
+- Code with confidence.
 - Write code as readable as possible.
 - Use less resource as much as possible.
 - Be as lazy as possible(reuse).
