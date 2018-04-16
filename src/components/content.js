@@ -1,10 +1,19 @@
 import React, { Component } from 'react';
+import firebase from '../firebase.service';
 import '../style/content.css';
+const database = firebase.database();
 
-const Content = ()=> (
+let content = "retrieving..."
+
+const Content = ()=> {
+  //content = database.ref('/content').on('value',snapshot => snapshot.val());
+  
+  return(
       <main className="content">
-        main meat
+      
+        <p>{content}</p>
       </main>
     );
-
+  }
+Content
 export default Content;
