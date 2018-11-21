@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/hallix/me/badge.svg?branch=master)](https://coveralls.io/github/hallix/me?branch=master)
+
 # About Me&trade;
 A Software Developer interested in Android, Node.js and Frontend web development.</br>
 Loves to write code in **Java**:sunglasses:, **JavaScript**:heart_eyes: and **Python**:alien:.</br></br>
